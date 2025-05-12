@@ -1,16 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-
-<body>
-
-    <script>
-        var a, b, c, d, e, f, h;
+var a, b, c, d, e, f, h;
 
         a = 22;
         b = 2;
@@ -75,7 +63,3 @@
         o=(m*n)/4;
         document.write("<br>");
         document.write(o);
-    </script>
-</body>
-
-</html>
